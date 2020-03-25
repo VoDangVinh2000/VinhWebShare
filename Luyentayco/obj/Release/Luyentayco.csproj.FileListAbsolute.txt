@@ -1,0 +1,65 @@
+J:\HK2\Web cua ban\Front-end html va css cua vuu\Luyentayco\Luyentayco\bin\ApplicationInsights.config
+J:\HK2\Web cua ban\Front-end html va css cua vuu\Luyentayco\Luyentayco\bin\roslyn\csc.exe
+J:\HK2\Web cua ban\Front-end html va css cua vuu\Luyentayco\Luyentayco\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\HK2\Web cua ban\Front-end html va css cua vuu\Luyentayco\Luyentayco\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\HK2\Web cua ban\Front-end html va css cua vuu\Luyentayco\Luyentayco\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\HK2\Web cua ban\Front-end html va css cua vuu\Luyentayco\Luyentayco\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\HK2\Web cua ban\Front-end html va css cua vuu\Luyentayco\Luyentayco\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\HK2\Web cua ban\Front-end html va css cua vuu\Luyentayco\Luyentayco\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\HK2\Web cua ban\Front-end html va css cua vuu\Luyentayco\Luyentayco\bin\roslyn\System.Collections.Immutable.dll
+J:\HK2\Web cua ban\Front-end html va css cua vuu\Luyentayco\Luyentayco\bin\roslyn\System.Reflection.Metadata.dll
+J:\HK2\Web cua ban\Front-end html va css cua vuu\Luyentayco\Luyentayco\bin\roslyn\vbc.exe
+J:\HK2\Web cua ban\Front-end html va css cua vuu\Luyentayco\Luyentayco\bin\roslyn\VBCSCompiler.exe
+J:\HK2\Web cua ban\Front-end html va css cua vuu\Luyentayco\Luyentayco\bin\roslyn\VBCSCompiler.exe.config
+J:\HK2\Web cua ban\Front-end html va css cua vuu\Luyentayco\Luyentayco\bin\Luyentayco.dll.config
+J:\HK2\Web cua ban\Front-end html va css cua vuu\Luyentayco\Luyentayco\bin\Luyentayco.dll
+J:\HK2\Web cua ban\Front-end html va css cua vuu\Luyentayco\Luyentayco\bin\Luyentayco.pdb
+J:\HK2\Web cua ban\Front-end html va css cua vuu\Luyentayco\Luyentayco\bin\Microsoft.AI.Agent.Intercept.dll
+J:\HK2\Web cua ban\Front-end html va css cua vuu\Luyentayco\Luyentayco\bin\Microsoft.AI.DependencyCollector.dll
+J:\HK2\Web cua ban\Front-end html va css cua vuu\Luyentayco\Luyentayco\bin\Microsoft.AI.PerfCounterCollector.dll
+J:\HK2\Web cua ban\Front-end html va css cua vuu\Luyentayco\Luyentayco\bin\Microsoft.AI.ServerTelemetryChannel.dll
+J:\HK2\Web cua ban\Front-end html va css cua vuu\Luyentayco\Luyentayco\bin\Microsoft.AI.Web.dll
+J:\HK2\Web cua ban\Front-end html va css cua vuu\Luyentayco\Luyentayco\bin\Microsoft.AI.WindowsServer.dll
+J:\HK2\Web cua ban\Front-end html va css cua vuu\Luyentayco\Luyentayco\bin\Microsoft.ApplicationInsights.dll
+J:\HK2\Web cua ban\Front-end html va css cua vuu\Luyentayco\Luyentayco\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\HK2\Web cua ban\Front-end html va css cua vuu\Luyentayco\Luyentayco\bin\Microsoft.AI.DependencyCollector.xml
+J:\HK2\Web cua ban\Front-end html va css cua vuu\Luyentayco\Luyentayco\bin\Microsoft.AI.ServerTelemetryChannel.xml
+J:\HK2\Web cua ban\Front-end html va css cua vuu\Luyentayco\Luyentayco\bin\Microsoft.AI.Web.xml
+J:\HK2\Web cua ban\Front-end html va css cua vuu\Luyentayco\Luyentayco\bin\Microsoft.AI.WindowsServer.xml
+J:\HK2\Web cua ban\Front-end html va css cua vuu\Luyentayco\Luyentayco\bin\Microsoft.ApplicationInsights.xml
+J:\HK2\Web cua ban\Front-end html va css cua vuu\Luyentayco\Luyentayco\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\HK2\Web cua ban\Front-end html va css cua vuu\Luyentayco\Luyentayco\obj\Release\Luyentayco.dll
+J:\HK2\Web cua ban\Front-end html va css cua vuu\Luyentayco\Luyentayco\obj\Release\Luyentayco.pdb
+J:\HK2\Web cua ban\Front-end html va css\Luyentayco\Luyentayco\bin\ApplicationInsights.config
+J:\HK2\Web cua ban\Front-end html va css\Luyentayco\Luyentayco\bin\roslyn\csc.exe
+J:\HK2\Web cua ban\Front-end html va css\Luyentayco\Luyentayco\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\HK2\Web cua ban\Front-end html va css\Luyentayco\Luyentayco\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\HK2\Web cua ban\Front-end html va css\Luyentayco\Luyentayco\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\HK2\Web cua ban\Front-end html va css\Luyentayco\Luyentayco\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\HK2\Web cua ban\Front-end html va css\Luyentayco\Luyentayco\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\HK2\Web cua ban\Front-end html va css\Luyentayco\Luyentayco\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\HK2\Web cua ban\Front-end html va css\Luyentayco\Luyentayco\bin\roslyn\System.Collections.Immutable.dll
+J:\HK2\Web cua ban\Front-end html va css\Luyentayco\Luyentayco\bin\roslyn\System.Reflection.Metadata.dll
+J:\HK2\Web cua ban\Front-end html va css\Luyentayco\Luyentayco\bin\roslyn\vbc.exe
+J:\HK2\Web cua ban\Front-end html va css\Luyentayco\Luyentayco\bin\roslyn\VBCSCompiler.exe
+J:\HK2\Web cua ban\Front-end html va css\Luyentayco\Luyentayco\bin\roslyn\VBCSCompiler.exe.config
+J:\HK2\Web cua ban\Front-end html va css\Luyentayco\Luyentayco\bin\Luyentayco.dll.config
+J:\HK2\Web cua ban\Front-end html va css\Luyentayco\Luyentayco\bin\Luyentayco.dll
+J:\HK2\Web cua ban\Front-end html va css\Luyentayco\Luyentayco\bin\Luyentayco.pdb
+J:\HK2\Web cua ban\Front-end html va css\Luyentayco\Luyentayco\bin\Microsoft.AI.Agent.Intercept.dll
+J:\HK2\Web cua ban\Front-end html va css\Luyentayco\Luyentayco\bin\Microsoft.AI.DependencyCollector.dll
+J:\HK2\Web cua ban\Front-end html va css\Luyentayco\Luyentayco\bin\Microsoft.AI.PerfCounterCollector.dll
+J:\HK2\Web cua ban\Front-end html va css\Luyentayco\Luyentayco\bin\Microsoft.AI.ServerTelemetryChannel.dll
+J:\HK2\Web cua ban\Front-end html va css\Luyentayco\Luyentayco\bin\Microsoft.AI.Web.dll
+J:\HK2\Web cua ban\Front-end html va css\Luyentayco\Luyentayco\bin\Microsoft.AI.WindowsServer.dll
+J:\HK2\Web cua ban\Front-end html va css\Luyentayco\Luyentayco\bin\Microsoft.ApplicationInsights.dll
+J:\HK2\Web cua ban\Front-end html va css\Luyentayco\Luyentayco\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\HK2\Web cua ban\Front-end html va css\Luyentayco\Luyentayco\bin\Microsoft.AI.DependencyCollector.xml
+J:\HK2\Web cua ban\Front-end html va css\Luyentayco\Luyentayco\bin\Microsoft.AI.ServerTelemetryChannel.xml
+J:\HK2\Web cua ban\Front-end html va css\Luyentayco\Luyentayco\bin\Microsoft.AI.Web.xml
+J:\HK2\Web cua ban\Front-end html va css\Luyentayco\Luyentayco\bin\Microsoft.AI.WindowsServer.xml
+J:\HK2\Web cua ban\Front-end html va css\Luyentayco\Luyentayco\bin\Microsoft.ApplicationInsights.xml
+J:\HK2\Web cua ban\Front-end html va css\Luyentayco\Luyentayco\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\HK2\Web cua ban\Front-end html va css\Luyentayco\Luyentayco\obj\Release\Luyentayco.dll
+J:\HK2\Web cua ban\Front-end html va css\Luyentayco\Luyentayco\obj\Release\Luyentayco.pdb
+J:\HK2\Web cua ban\Front-end html va css\Luyentayco\Luyentayco\obj\Release\Luyentayco.csprojResolveAssemblyReference.cache
